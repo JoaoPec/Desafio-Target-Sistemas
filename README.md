@@ -53,7 +53,7 @@ Sequência formada através de todos os números que iniciam com a letra "d". As
 Primeiro, eu ligaria o primeiro interruptor e esperaria alguns minutos antes de desliga-lo.
 Em seguida, ligaria o segundo interruptor.
 E então, me dirigiria até as salas.
-A sala que estivesse com a lâmpada desligada, porém quente, esta seria a sala ligada ao 1º interruptor
+A sala que estivesse com a lâmpada desligada, porém quente, esta seria a sala ligada ao 1º interruptor.
 Se a lâmpada estiver acessa, então o segundo interruptor é responsável por ela.
 Se a lâmpada estiver desligada e fria, isso indica que o terceiro interruptor controla essa lâmpada.
 
