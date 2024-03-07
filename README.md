@@ -57,4 +57,13 @@
     Se a lâmpada estiver acessa, então o segundo interruptor é responsável por ela.
     Se a lâmpada estiver desligada e fria, isso indica que o terceiro interruptor controla essa lâmpada.
 
+### 5º Questão
 
+    R: A solução encontra-se no arquivo "reverseString.c" para executar, siga as seguintes instruções:
+
+```bash
+1. gcc -o reverse reverseString.c
+
+2. ./reverse
+
+```
