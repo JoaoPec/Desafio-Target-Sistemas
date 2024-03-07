@@ -4,7 +4,7 @@
 
 ### 1º Questão
 
-    R: Ao final do processamento, a variável soma terá o valor de 91. A demonstração desse algoritmos está no arquivo "soma.c" no repositório.
+R: Ao final do processamento, a variável soma terá o valor de 91. A demonstração desse algoritmos está no arquivo "soma.c" no repositório.
 
 
 ### 2º Questão
@@ -59,7 +59,7 @@
 
 ### 5º Questão
 
-    R: A solução encontra-se no arquivo "reverseString.c" para executar, siga as seguintes instruções:
+R: A solução encontra-se no arquivo "reverseString.c" para executar, siga as seguintes instruções:
 
 ```bash
 1. gcc -o reverse reverseString.c
